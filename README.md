@@ -58,6 +58,6 @@ mu.byz6.cn，端口19132
 
 [综合插件介绍](https://huipages.github.io/MinecraftServer-pages/)
 
-**服务器赞助/由于本网站作者暂未获得赞助方式，所以没有赞助链接**
+**服务器赞助(!https://github.com/HuiPages/MinecraftSV/blob/main/QQ%E5%9B%BE%E7%89%8720210220150333.jpg?raw=true)**
 
 **[返回主页](https://huipages.github.io/MinecraftSV/)**
