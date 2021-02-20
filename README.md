@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# 晨曦服务器
+请在加入服务器前前进至本服务器的QQ群
 
-You can use the [editor on GitHub](https://github.com/HuiPages/yemuserver/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[站点介绍以及游玩须知](https://huipages.github.io/SERVERHelp/.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列表
 
-### Markdown
+进入[下载站](https://huipages.github.io/download/)下载下列文件
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[1.16.5Java版本以及fabric整合包、组件下载]
 
-```markdown
-Syntax highlighted code block
+[1.16.2基岩版下载]
 
-# Header 1
-## Header 2
-### Header 3
+点击蓝色字体可进入相应网站
 
-- Bulleted
-- List
+### 服务器群
+**加入[QQ群1132101701](https://jq.qq.com/?_wv=1027&k=IBhMCCAc)，欢迎您的到来**
 
-1. Numbered
-2. List
+群内可闲聊、发布求救等等
 
-**Bold** and _Italic_ and `Code` text
+请勿发布禁18岁内容
 
-[Link](url) and ![Image](src)
-```
+**群简介**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+本群创建于2020/6/28:  我们仍然是大家心目中的MC交流群,由衷地欢迎大家的到来, 谢谢大家对我们的大力支持。
 
-### Jekyll Themes
+由于上一个群, 因群内有人发不良信息，导致即将解散,所以这个群我们将严加管理，请大家遵守群规。^3^
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HuiPages/yemuserver/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+在这里我们联机,我们讨论, 我们交友,而且我们还可以尬聊...我们真心欢迎所 以我的世界玩家的到来。
 
-### Support or Contact
+在群内请大家遵守群规群纪,我们管理部会进行“四项准则”
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1.严惩散布黄色,血腥,暴力的成员。2抵制不文明行为。
+
+3.最重要的一-点,本群是反迷你群。最后我们宣誓:
+
+做到和谐共造文明网络,认真负责,处事公平,携手建设我的世界交流群!
+
+_请务必遵守群规_ 
+
+### MINECRAFT服务器1.16.2基岩版服务器介绍
+
+**服务器IP地址**
+
+mu.byz6.cn，端口19132
+
+本服务器为生电服，有插件机制
+
+## 查看本服务器的插件以及使用方法
+
+[综合插件介绍](https://huipages.github.io/MinecraftServer-pages/)
+
+**服务器赞助/由于本网站作者暂未获得赞助方式，所以没有赞助链接**
